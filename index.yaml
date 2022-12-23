@@ -3,9 +3,9 @@ entries:
   demo-was:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2022-12-23T07:41:43.245743665Z"
+    created: "2022-12-23T08:19:42.24721823Z"
     description: A sample Helm chart for Kubernetes
-    digest: 34c1af25386f4786a329f69f60d8c37e9e72bc9584b487fe0041e811208de553
+    digest: 1b6414d8b9cf30943e069d560c824ff99dc13766fead948d3ba00a68b2bb3169
     icon: https://avatars0.githubusercontent.com/u/39108256
     name: demo-was
     urls:
@@ -14,12 +14,12 @@ entries:
   demo-web:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2022-12-23T07:41:43.24638795Z"
+    created: "2022-12-23T08:19:42.248181999Z"
     description: A Helm chart for Kubernetes
-    digest: 7d331db31324a02181694d8daf96055ae28d09ea9a95ad20ad0e5bef395ab3a5
+    digest: 3b71d8b9315a90fc103efdf3d6b667d918bf7ac7ffc2104d9a7d0ee52b9c1dd8
     icon: https://avatars0.githubusercontent.com/u/39108256
     name: demo-web
     urls:
     - demo-web-1.0.0.tgz
     version: 1.0.0
-generated: "2022-12-23T07:41:43.244930307Z"
+generated: "2022-12-23T08:19:42.245911241Z"
